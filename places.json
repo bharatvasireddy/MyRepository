@@ -1,0 +1,12 @@
+[
+    {
+        "id" : 1,
+        "name" : "visakhapatnam",
+        "state" : "Andhra pradesh"
+    },
+    {
+        "id" : 2,
+        "name" : "Hyderabad",
+        "state" : "Telangana"
+    }
+]
