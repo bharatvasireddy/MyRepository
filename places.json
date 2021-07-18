@@ -28,5 +28,10 @@
         "id" : 6,
         "name" : "Madhira",
         "state" : "Telangana"
+    },
+    {
+        "id" : 6,
+        "name" : "Guntur",
+        "state" : "Andhra pradesh"
     }
 ]
