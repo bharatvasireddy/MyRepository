@@ -23,5 +23,10 @@
         "id" : 5,
         "name" : "kodad",
         "state" : "Telangana"
+    },
+    {
+        "id" : 6,
+        "name" : "Madhira",
+        "state" : "Telangana"
     }
 ]
