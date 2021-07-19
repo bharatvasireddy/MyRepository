@@ -30,8 +30,13 @@
         "state" : "Telangana"
     },
     {
-        "id" : 6,
+        "id" : 7,
         "name" : "Guntur",
+        "state" : "Andhra pradesh"
+    },
+    {
+        "id" : 8,
+        "name" : "Vijayawada",
         "state" : "Andhra pradesh"
     }
 ]
